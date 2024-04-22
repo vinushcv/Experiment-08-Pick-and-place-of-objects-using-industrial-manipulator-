@@ -1,4 +1,4 @@
-# Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
+![image](https://github.com/vinushcv/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/113975318/2d1e3fc6-306e-45cb-b1b3-d2e55c43cf6f)![image](https://github.com/vinushcv/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/113975318/819189aa-a284-4872-ad4f-8a7ca5a3ebe5)# Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
 
 ### Aim :
       To pick and place a regular shape using two finger gripper on the conveyor belt 
@@ -101,8 +101,26 @@ and click on the connect icon
 ### output video and screen shots of pick and place 
 
 
+![image](https://github.com/vinushcv/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/113975318/fc107f9a-d09b-44eb-ad46-4330e8acc0c0)
 
 
+![image](https://github.com/vinushcv/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/113975318/6a9660fc-21be-46b9-93af-812f4e5568a5)
+
+
+
+
+
+![image](https://github.com/vinushcv/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/113975318/59e34952-2b87-4777-b6dc-37e2f07080ce)
+
+![image](https://github.com/vinushcv/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/113975318/1f434c71-f105-4b29-877e-64ec85faadc6)
+
+![image](https://github.com/vinushcv/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/113975318/73b47580-2e31-4404-99de-e00f9b89d9bc)
+
+![image](https://github.com/vinushcv/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/113975318/76f7f1b9-5454-4fc3-b1a7-77d150b9559f)
+
+![image](https://github.com/vinushcv/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/113975318/ec2d231c-52e1-4da7-8cbe-703aab241c0f)
+
+![image](https://github.com/vinushcv/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/113975318/4b2b13e5-d63f-48f7-884b-4443a74087c0)
 
 
 
