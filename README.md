@@ -1,4 +1,4 @@
-![image](https://github.com/vinushcv/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/113975318/2d1e3fc6-306e-45cb-b1b3-d2e55c43cf6f)![image](https://github.com/vinushcv/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/113975318/819189aa-a284-4872-ad4f-8a7ca5a3ebe5)# Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
+# Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
 
 ### Aim :
       To pick and place a regular shape using two finger gripper on the conveyor belt 
