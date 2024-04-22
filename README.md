@@ -131,7 +131,7 @@ https://drive.google.com/file/d/1ZjvFt7VpE1q2KmO-ChKVZgGW7BNNTCY_/view?usp=shari
 ### Results: 
 
 
-
+Thus, the experiment to pick and place a regular shape using two finger gripper on the conveyor belt is sucessfully completed.
 
 
 
